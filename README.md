@@ -3,6 +3,7 @@
 ### SOURCE RELEASE NOT AVAILLABLE FOR NOW, WORK IN PROGRESS.
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
+- Fully Support macOS Sierra 10.12 and macOS High Sierra 10.13
 
 ## Credit:
 
