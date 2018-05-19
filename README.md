@@ -62,6 +62,12 @@ will install in macOS system.
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/5captu11.png)
 
+## Menue 6 Series
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_10.png)
+
+## Mnue 7 Series
+[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_11.png)
+
 ## Note Important about HP-ProBook-EliteBook-macOS.pkg: 
 - To use this program you will have to boot on a fresh installation with the Create Install Media HP Laptop tools « IMPORTANT » without any file .aml (DSDT.aml), (SSDT.aml) in  /EFI / CLOVER / ACPI / patched 
 
