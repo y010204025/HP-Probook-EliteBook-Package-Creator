@@ -14,11 +14,12 @@
 - Credit: rehabman for patchmatic
 - Credit: Apple for PackageMaker
 - Credit: Clover team for Clover UEFI
+- Credit: Packager chris1111
 
 This program only uses clover and kexts injection, 
 there is no kext to modify in the system and no kext 
 will install in macOS system.
-Package Build: by chris1111
+
 
 ### How its work:
 - The source is included in an image.dmg
