@@ -69,7 +69,7 @@ will install in macOS system.
 ## Menue 6 Series
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_10.png)
 
-## Mnue 7 Series
+## Menue 7 Series
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/menue_11.png)
 
 ## Note Important about HP-ProBook-EliteBook-macOS.pkg: 
