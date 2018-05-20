@@ -49,7 +49,7 @@ will install in macOS system.
 
 ## [Download V-1 ➤ HP-Probook-EliteBook-Package-Creator.zip](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V-1)
 
-##☟ Follow every steps in the Video
+# Follow every steps in the Video ☟
 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/high_s11.jpg)](https://youtu.be/bXcP2mqCI6E)
 
