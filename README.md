@@ -1,6 +1,5 @@
 # HP-Probook-EliteBook-Package-Creator
 
-### SOURCE RELEASE NOT AVAILLABLE FOR NOW, WORK IN PROGRESS.
 
 ### Is a project to make easier installation of macOS on HP ProBook, EliteBook Laptop
 - Fully Support macOS Sierra 10.12 and macOS High Sierra 10.13
@@ -47,6 +46,9 @@ will install in macOS system.
 - Many more feature: Read all option in the Package HP-ProBook-EliteBook-macOS.pkg!
 
 ## Eventually I will add 8 and 9 Series
+
+[Download V-1 ➤ HP-Probook-EliteBook-Package-Creator.zip](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V-1)
+
 
 ## Screen Shot: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu562.png)
