@@ -47,15 +47,6 @@ will install in macOS system.
 
 ## Eventually I will add 8 and 9 Series
 
-<<<<<<< HEAD
-=======
-## [Download V-1 ➤ HP-Probook-EliteBook-Package-Creator.zip](https://github.com/chris1111/HP-Probook-EliteBook-Package-Creator/releases/tag/V-1)
-
-# Follow every steps in the Video ☟
-
-[![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/high_s11.jpg)](https://youtu.be/bXcP2mqCI6E)
-
->>>>>>> 6a1db8484c685069c68f65df95999dd41fc73e35
 ## Screen Shot: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu562.png)
 
