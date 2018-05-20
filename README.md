@@ -46,6 +46,8 @@ will install in macOS system.
 - Fan Patch
 - Many more feature: Read all option in the Package HP-ProBook-EliteBook-macOS.pkg!
 
+## Eventually I will add 8 and 9 Series
+
 ## Screen Shot: 
 [![Modular Image Creation](https://i62.servimg.com/u/f62/18/50/18/69/captu562.png)
 
