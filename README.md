@@ -6,7 +6,7 @@
 
 ## Credit:
 
-- Credit: Tester: Screenz
+- Credit: Tester: Screenz, mus68
 - Credit: Tester old Project for HP ProBook Laptop: Screenz,  platinumsteel,  josh08, Zsolt Szekely, lindros4-32, YvanO21
 
 - Credit: RehabMan for all DSDT patch
